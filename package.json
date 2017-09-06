@@ -1,0 +1,23 @@
+{
+  "name": "cidr-ipv4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/cidr.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webini/cidr-ipv4.git"
+  },
+  "author": "GASPARINI Nicolas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Webini/cidr-ipv4/issues"
+  },
+  "homepage": "https://github.com/Webini/cidr-ipv4#readme",
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "mocha": "^3.5.0"
+  }
+}
